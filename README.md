@@ -16,12 +16,12 @@ Gitbuff, Github Api kullanarak Github kullanıcılarının bazı istatislikleri 
 Projeyi [http://gitbuff.tk](http://gitbuff.tk) adresinden ön izleyebilirsiniz.
 
 ## Kullanılan Kütüphaneler
-[Faraday gem](https://github.com/lostisland/faraday)
-[semantic-ui-sass](https://github.com/doabit/semantic-ui-sass)
-[Haml](https://github.com/haml/haml) ve [Sass](https://github.com/sass/sass)
-[Jquery](https://github.com/jquery/jquery) ve [Rails-jquery gem](https://github.com/rails/jquery-rails)
-Sayfalama için [Will_paginate gem](https://github.com/mislav/will_paginate)
-[Ruby](https://github.com/ruby/ruby) ve [Rails](https://github.com/rails/rails)
+[Faraday gem](https://github.com/lostisland/faraday),
+[semantic-ui-sass](https://github.com/doabit/semantic-ui-sass),
+[Haml](https://github.com/haml/haml) ve [Sass](https://github.com/sass/sass),
+[Jquery](https://github.com/jquery/jquery) ve [Rails-jquery gem](https://github.com/rails/jquery-rails),
+Sayfalama için [Will_paginate gem](https://github.com/mislav/will_paginate),
+[Ruby](https://github.com/ruby/ruby) ve [Rails](https://github.com/rails/rails),
 
 ## Lisans
 Bu uygulama MIT Lisansı ile lisanslanmıştır.
