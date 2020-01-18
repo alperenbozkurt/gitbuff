@@ -1,0 +1,9 @@
+{
+  "name": "GitBuff",
+  "description": "Github istatisliklerinin görselleştirilmesi",
+  "scripts": {
+    "dokku": {
+      "postdeploy": "bundle exec rake db:migrate"
+    }
+  }
+}
